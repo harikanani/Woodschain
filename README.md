@@ -32,6 +32,6 @@ We were able to finish the project within the allotted amount of time and succes
 ## What we learned
 We became familiar with the Remix IDE, as well as the fundamentals of IPFS and Estuary's cloud storage. In its place, we became familiar with Web Storage. We learnt how to link the Metamask wallet with the app and begin the transaction to sign it by authorising it from the user end using Metamask. This was done by connecting the wallet to the app.
 
-## What's next for woodtracker
+## What's next for Woodschain
 
 Developing a mobile application to make it easier for authorities to scan the QR code, and linking this application with the web application so that it can be tracked and generated more quickly so that statistics can be seen, We will have the data essential to research the forest, plan the forestation, conserve the forest, and plant new trees to combat climate change as the app will be used to monitor the trees that are being chopped down and utilised for industry and the house.
